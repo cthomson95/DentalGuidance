@@ -1,2 +1,3 @@
 # DentalGuidance
-Github page for DentalGuidance Mobile Application
+
+Please direct any questions or issues to iverseapps@gmail.com
